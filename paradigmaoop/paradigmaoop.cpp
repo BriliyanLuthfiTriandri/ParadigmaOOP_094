@@ -32,4 +32,6 @@ public:
 	~pelajar() {
 		cout << "pelajar dihapus\n" << endl;
 	}
+	
 };
+
