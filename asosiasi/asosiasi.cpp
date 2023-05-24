@@ -55,3 +55,5 @@ void dokter::cetakPasien() {
 	cout << endl;
 }
 
+int main() {
+}
