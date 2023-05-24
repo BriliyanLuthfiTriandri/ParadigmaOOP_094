@@ -19,4 +19,5 @@ public:
 
 class dokter {
 public:
+	string nama;
 };
